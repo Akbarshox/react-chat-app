@@ -1,0 +1,872 @@
+{
+  "mainPage": {
+    "ru": "Главная",
+    "uz": "Asosiy sahifa"
+  },
+  "aboutProject": {
+    "ru": "О проекте",
+    "uz": "Loyiha haqida"
+  },
+  "forSponsors": {
+    "ru": "Спонсорам",
+    "uz": "Homiylar uchun"
+  },
+  "getCode": {
+    "ru": "Получить код",
+    "uz": "Kod olish"
+  },
+  "inputCode": {
+    "label": {
+      "ru": "Получить код",
+      "uz": "Kod olish"
+    },
+    "placeholder": {
+      "ru": "Получить код",
+      "uz": "Kod olish"
+    }
+  },
+  "forVolunteers": {
+    "ru": "Волонтерам",
+    "uz": "Ko'ngillilar uchun"
+  },
+  "newApplication": {
+    "ru": "Создать заявку",
+    "uz": "Yangi so'rovnoma"
+  },
+  "registration": {
+    "ru": "Авторизация",
+    "uz": "Ro'yxatdan o'tish"
+  },
+  "beHero": {
+    "ru": "Стань героем!",
+    "uz": "Qahramon bo'ling!"
+  },
+  "helpPeople": {
+    "ru": "Помогай своему народу как волонтер",
+    "uz": "Xalqga ko'ngillilardan bo'lib yordam bering"
+  },
+  "tryBtn": {
+    "ru": "Попробовать!",
+    "uz": "Sinab ko'rish"
+  },
+  "resetPass": {
+    "ru": "Восстановить",
+    "uz": "Tiklash"
+  },
+  "platformProvides": {
+    "ru": "Наша платформа представляет собой инструмент для эффективного координирования волонтерами, тем самым давая возможность предоставить свою помощь тем, кто в ней нуждается.",
+    "uz": "Bizning platforma orqali ko'ngillilar uchun tadbirlarni boshqarishingiz, hamda yordamga muhtojlarga yordam qo'lini cho'zishingiz mumkun"
+  },
+  "help": {
+    "ru": "Вносите свой вклад",
+    "uz": "O'z hissangizni qo'shing"
+  },
+  "getTasks": {
+    "ru": "Получайте и выполняйте задания от координаторов, помогая тем, кто нуждается в помощи.",
+    "uz": "Vazifa oling, bajarib muhtojlarga yordam bering"
+  },
+  "getPoints": {
+    "ru": "Копите баллы",
+    "uz": "Ball to'plang"
+  },
+  "increasePoints": {
+    "ru": "Зарабатывайте баллы для повышения в рейтинге самых активных волонтеров.",
+    "uz": "Vazifalarni bajarib ball to'plang va reytingizni oshiring"
+  },
+  "getPrizes": {
+    "ru": "Получайте подарки от спонсоров",
+    "uz": "Homiylardan sovg'alar oling"
+  },
+  "getCoupon": {
+    "ru": "Достигая новых уровней, получайте подарки и скидочные купоны от наших спонсоров.",
+    "uz": "Yangi darajalarga yetib homiylardan sovg'alar yoki kuponlar oling"
+  },
+  "contacts": {
+    "ru": "Контакты",
+    "uz": "Aloqa"
+  },
+  "noUsername": {
+    "ru": "Контакты",
+    "uz": "Aloqa"
+  },
+  "codeIsWrong": {
+    "ru": "Введён неправильный код!",
+    "uz": "Noto'g'ri kod kiritildi!"
+  },
+  "codeIsSent": {
+    "ru": "Код отправлен на мобильный номер",
+    "uz": "Kod mobil raqamga yuborildi"
+  },
+  "sentNewPassword": {
+    "ru": "Новый пароль успешно отправлен на ваш телефон",
+    "uz": "Yangi parol telefoningizga muvaffaqiyatli yuborildi"
+  },
+  "helpVolunteers": {
+    "ru": "Помогайте участникам для дальнейшего роста волонтерского сообщества. Сделав маленький вклад в развитие платформы, вы предоставляете огромную помощь своему народу.",
+    "uz": "Ko’ngillilar muhtojlarga yordam berishlari uchun ularga ko’maklashing. Sizning yordamingiz xalq uchun katta yordam bo’ladi"
+  },
+  "learnMore": {
+    "ru": "Узнать подробнее",
+    "uz": "Batafsil ma'lumot"
+  },
+  "openListofSpon": {
+    "ru": "Открыть список спонсоров",
+    "uz": "Homiylar ro'yxatini ochish"
+  },
+  "rules": {
+    "ru": "Ознакомиться с правилами и условиями",
+    "uz": "Qoidalar bilan tanishish"
+  },
+  "ourVolunteers": {
+    "ru": "Наши волонтеры",
+    "uz": "Bizning ko'ngillilar"
+  },
+  "herosface": {
+    "ru": "Героев нужно знать в лицо...",
+    "uz": "Qahramonlarni shaxsan bilish kerak..."
+  },
+  "allrights": {
+    "ru": "Все права защищены",
+    "uz": "Barcha huquqlar himoyalangan"
+  },
+  "register": {
+    "ru": "Регистрация",
+    "uz": "Ro'yxatdan o'ting"
+  },
+  "login": {
+    "ru": "Войти",
+    "uz": "Kirish"
+  },
+  "ready": {
+    "ru": "Готово!",
+    "uz": "Tayyor!"
+  },
+  "avatarPlaceholder": {
+    "ru": "Фотография профиля",
+    "uz": "Profil rasmi"
+  },
+  "completeRegister": {
+    "ru": "Завершите регистрацию",
+    "uz": "Ro'yxatdan o'tishni yakunlang"
+  },
+  "getPassword": {
+    "ru": "Получить пароль",
+    "uz": "Parol olish"
+  },
+  "applicant": {
+    "ru": "Организация",
+    "uz": "Tashkilot"
+  },
+  "volunteer": {
+    "ru": "Волонтер",
+    "uz": "Ko'ngilli"
+  },
+  "fullName": {
+    "placeholder": {
+      "ru": "Введите полное имя",
+      "uz": "To'liq ismingizni yozing"
+    },
+    "label": {
+      "ru": "Полное имя",
+      "uz": "To'liq ismingiz"
+    }
+  },
+  "phone": {
+    "placeholder": {
+      "ru": "Введите номер телефона",
+      "uz": "Telefon raqamingizni yozing"
+    },
+    "label": {
+      "ru": "Номер телефона",
+      "uz": "Telefon raqamingiz"
+    }
+  },
+  "emailInput": {
+    "placeholder": {
+      "ru": "Введите эл. почту",
+      "uz": "Pochtangizni kiriting"
+    },
+    "label": {
+      "ru": "Эл. почта",
+      "uz": "Elektron pochta"
+    }
+  },
+  "password": {
+    "placeholder": {
+      "ru": "Введите пароль",
+      "uz": "Parolni kiriting"
+    },
+    "label": {
+      "ru": "Пароль",
+      "uz": "Parol"
+    }
+  },
+  "verifyPassword": {
+    "placeholder": {
+      "ru": "Введите пароль повторно",
+      "uz": "Parolni qayta kiriting"
+    },
+    "label": {
+      "ru": "Подтвердите пароль",
+      "uz": "Parolni tasdiqlang"
+    }
+  },
+  "enterPhone": {
+    "placeholder": {
+      "ru": "Введите номер телефона",
+      "uz": "Telefon raqamingizni kiriting"
+    },
+    "label": {
+      "ru": "Номер телефона",
+      "uz": "Telefon raqamingiz"
+    }
+  },
+  "accountType": {
+    "ru": "Тип аккаунта",
+    "uz": "Akkaunt turi"
+  },
+  "groupType": {
+    "ru": "Тип группы",
+    "uz": "Guruh turi"
+  },
+  "publicGroup": {
+    "ru": "Публичная",
+    "uz": "Ommaviy"
+  },
+  "privateGroup": {
+    "ru": "Приватная",
+    "uz": "Yopiq"
+  },
+  "agreeTerms": {
+    "ru": "Нажимая кнопку 'Готово!' вы соглашаетесь \nс ",
+    "uz": "Tugmachani bosib siz saytimiz barcha ",
+    "yellow": {
+      "ru": " правилами и условиями\n",
+      "uz": " shartlari"
+    },
+    "parts": {
+      "ru": "сайта\n",
+      "uz": "bilan tanishib chiqib, roziligingizni bildirasiz"
+    }
+  },
+  "forgotPass": {
+    "ru": "Забыли пароль?",
+    "uz": "Parolingizni unutdingizmi?"
+  },
+  "chooseGroup": {
+    "ru": "Выберите группу",
+    "uz": "Guruhni tanlang"
+  },
+  "enter": {
+    "ru": "Вступить",
+    "uz": "Qo'shilish"
+  },
+  "send": {
+    "ru": "Отправлено",
+    "uz": "Yuborildi"
+  },
+  "rating": {
+    "ru": "Рейтинг",
+    "uz": "Bahosi"
+  },
+  "createGroup": {
+    "ru": "Создать группу",
+    "uz": "Guruh yaratish\t"
+  },
+  "createAt": {
+    "ru": "Дата создания",
+    "uz": "Yaratilgan vaqti"
+  },
+  "groupFeed": {
+    "ru": "От организаций",
+    "uz": "Tashkilotlardan"
+  },
+  "members": {
+    "ru": "Участников",
+    "uz": "Ishtirokchilar"
+  },
+  "showmore": {
+    "ru": "Раскрыть текст »",
+    "uz": "Batafsil »"
+  },
+  "showless": {
+    "ru": "Скрыть",
+    "uz": "Yashirish"
+  },
+  "notification": {
+    "ru": "Уведомления",
+    "uz": "Bildirishnomalar"
+  },
+  "subscribe": {
+    "ru": "Записаться",
+    "uz": "Yozilish"
+  },
+  "cancelRequest": {
+    "ru": "Отменить запрос",
+    "uz": "Bekor qilish"
+  },
+  "cancel": {
+    "ru": "Отменить",
+    "uz": "Bekor qilish"
+  },
+  "toSend": {
+    "ru": "Отправить",
+    "uz": "Yuborish"
+  },
+  "settings": {
+    "ru": "Настройки",
+    "uz": "Sozlamalar"
+  },
+  "coordinatorInvite": {
+    "ru": "Координатор приглашает вас на:",
+    "uz": "Koordinator sizni taklif qilyapti: "
+  },
+  "coordinatorMark": {
+    "ru": "Координатор оценил вас на:",
+    "uz": "Koordinator sizni baxoladi"
+  },
+  "change": {
+    "ru": "Поменять группу ",
+    "uz": "Guruhni o'zgartirish"
+  },
+  "myGroup": {
+    "ru": "Моя группа",
+    "uz": "Mening guruhim"
+  },
+  "log_out": {
+    "ru": "Выход",
+    "uz": "Chiqish"
+  },
+  "settingsMenu": {
+    "ru": "Настройки",
+    "uz": "Sozlamalar"
+  },
+  "achievement": {
+    "ru": "Мои достижения",
+    "uz": "Mening yutuqlarim"
+  },
+  "Email": {
+    "ru": "Электронная почта",
+    "uz": "Elektron pochta"
+  },
+  "aboutMe": {
+    "ru": "О себе",
+    "uz": "O'zingiz haqingizda"
+  },
+  "aboutMeplace": {
+    "ru": "23 года, студент университета Инха в Ташкенте",
+    "uz": "23 yosh, Toshkent shahridagi Inha universiteti talabasi"
+  },
+  "currentPassword": {
+    "ru": "Текущий пароль",
+    "uz": "Hozirgi parol"
+  },
+  "newPassword": {
+    "label": {
+      "ru": "Новый пароль",
+      "uz": "Yangi parol"
+    },
+    "placeholder": {
+      "ru": "Введите новый пароль",
+      "uz": "Yangi parolni kiriting"
+    }
+  },
+  "mainInfo": {
+    "ru": "Основная информация",
+    "uz": "Asosiy ma’lumot"
+  },
+  "groupName": {
+    "ru": "Название группы",
+    "uz": "Guruh nomi"
+  },
+  "mission": {
+    "ru": "Опишите вашу миссию",
+    "uz": "Guruh maqsadini yozing"
+  },
+  "chooseFile": {
+    "ru": "Выберите файл...",
+    "uz": "Faylni tanlang"
+  },
+  "avatarGroup": {
+    "ru": "Аватарка группы (1:1 соотношение)",
+    "uz": "Guruh logosi (1:1 olchamda)"
+  },
+  "avatar": {
+    "ru": "Аватарка группы",
+    "uz": "Guruh uchun avatar"
+  },
+  "teamExperience": {
+    "ru": "Опыт и команда",
+    "uz": "Tajribangiz va jamoyingiz"
+  },
+  "prevExperience": {
+    "ru": "Предыдущий опыт в волонтерстве",
+    "uz": "Oldingi tajribangiz"
+  },
+  "aboutTeam": {
+    "ru": "Напишите про свою команду",
+    "uz": "Jamoa haqida yozing"
+  },
+  "chooseCity": {
+    "ru": "Выберите город",
+    "uz": "Tuman"
+  },
+  "chooseRegion": {
+    "ru": "Выберите город/область",
+    "uz": "Shahar/viloyat"
+  },
+  "requisites": {
+    "ru": "Реквизиты",
+    "uz": "Rekvizitlar "
+  },
+  "city": {
+    "ru": "Город/регион",
+    "uz": "Shahar/tuman"
+  },
+  "region": {
+    "ru": "Город/область",
+    "uz": "Shahar/viloyat"
+  },
+  "inputAddress": {
+    "ru": "Напишите адрес",
+    "uz": "Manzil..."
+  },
+  "address": {
+    "ru": "Адрес",
+    "uz": "Manzil"
+  },
+  "passportSerie": {
+    "ru": "Серия и Номер паспорта",
+    "uz": "Pasport Seriyasi va raqami"
+  },
+  "passportNum": {
+    "ru": "Номер паспорта",
+    "uz": "Pasport raqami"
+  },
+  "passportSeries": {
+    "ru": "Серия",
+    "uz": "Pasport Seriyasi"
+  },
+  "copyOfPassport": {
+    "ru": "Копия паспорта",
+    "uz": "Pasport kopiyasi"
+  },
+  "finish": {
+    "ru": "Закончить",
+    "uz": "Tugatish"
+  },
+  "48Hour": {
+    "ru": "Ваша заявка будет рассмотрена в течении 48 часов! Результат мы пришлем Вам по СМС и по Эл. Почте",
+    "uz": "Sizning arizangiz 48 soat ichida ko’rib chiqiladi. Javobni electron pochta va SMS habar orqali yuvoramiz"
+  },
+  "archive": {
+    "ru": "Открыть архив",
+    "uz": "Arxivni ochish"
+  },
+  "inProcess": {
+    "ru": "В процессе",
+    "uz": "Jarayonda"
+  },
+  "waiting": {
+    "ru": "В ожидании",
+    "uz": "Kutish jarayonida"
+  },
+  "processFinished": {
+    "ru": "Завершен",
+    "uz": "Tugagan"
+  },
+  "finished": {
+    "ru": "Выполнено",
+    "uz": "Tugatildi"
+  },
+  "finishedwaitingforRate": {
+    "ru": "Завершено, ждет оценки",
+    "uz": "Tugallangan, Baxolanishni kutmoqda"
+  },
+  "estimate": {
+    "ru": "Оценить",
+    "uz": "Baholash"
+  },
+  "invite": {
+    "ru": "Пригласить",
+    "uz": "Taklif qilish"
+  },
+  "chooseVolunteer": {
+    "ru": "Выбрать волонтера",
+    "uz": "Ko’ngillini tanlash"
+  },
+  "aboutGroup": {
+    "ru": "О группе",
+    "uz": "Guruh haqida"
+  },
+  "groupInfo": {
+    "ru": "Данные группы",
+    "uz": "Guruh ma’lumotlari"
+  },
+  "groupSettings": {
+    "ru": "Настройки группы",
+    "uz": "Guruh sozlamalari"
+  },
+  "groupAchievements": {
+    "ru": "Достижения группы",
+    "uz": "Guruh yutuqlari"
+  },
+  "myApplications": {
+    "ru": "Мои заявки",
+    "uz": "Mening arizalarim"
+  },
+  "rateWork": {
+    "ru": "Оценить работу",
+    "uz": "Ishni baholash"
+  },
+  "leaveReview": {
+    "ru": "Оставьте отзыв",
+    "uz": "Sharh qoldiring"
+  },
+  "applicationAccepted": {
+    "ru": "Вашу заявку приняла группа",
+    "uz": "Sizning arizangizni guruh qabul qildi"
+  },
+  "createRequest": {
+    "ru": "Создать заявку",
+    "uz": "Ariza yaratish"
+  },
+  "needhelp": {
+    "ru": "Нужна помощь",
+    "uz": "Yordam kerak"
+  },
+  "requestTitle": {
+    "ru": "Заголовок заявки",
+    "uz": "Ariza Sarlavhasi"
+  },
+  "inputRequest": {
+    "ru": "Введите загаловок",
+    "uz": "Sarlavhani kiriting"
+  },
+  "inputDescription": {
+    "ru": "Введите описание",
+    "uz": "Izoh bering"
+  },
+  "quickDesRequest": {
+    "placeholder": {
+      "ru": "Можете указать какие медикаменты/продукты нужны. Или оставить адрес доставки или вид одежды",
+      "uz": "Yordam turi haqida toliqroq (dori-darmon/oziq-ovqat/kiyim-kechak turi yoki toliq manzil) ma'lumot berishingiz mumkin"
+    },
+    "label": {
+      "ru": "Оставьте комментарии для волонтера",
+      "uz": "Ko'ngililar uchun qoshimcha ma'lumot"
+    }
+  },
+  "medicine": {
+    "ru": "Медикаменты",
+    "uz": "Dori-darmon"
+  },
+  "food": {
+    "ru": "Продукты питания",
+    "uz": "Oziq-ovqat"
+  },
+  "clothes": {
+    "ru": "Одежда",
+    "uz": "Kiyim-kechak"
+  },
+  "delivery": {
+    "ru": "Доставка",
+    "uz": "Yetqazib berish"
+  },
+  "changeGroup": {
+    "ru": "Поменять",
+    "uz": "O'zgartirsh"
+  },
+  "inputDate": {
+    "ru": "Выберите дату",
+    "uz": "Sanani kiriting"
+  },
+  "describeDetail": {
+    "ru": "Опишите детально работу",
+    "uz": "Ariza haqida"
+  },
+  "makeApplication": {
+    "ru": "+ Создать заявку",
+    "uz": "+ Yangi ariza"
+  },
+  "enterGroupName": {
+    "ru": "Введите название группы",
+    "uz": "Guruh nomini kiriting"
+  },
+  "numVolunteer": {
+    "ru": "Сколько волонтеров нужно?",
+    "uz": "Nechta ko’ngilli kerak?\t"
+  },
+  "deadline": {
+    "ru": "Дедлайн заявки",
+    "uz": "Ariza muddati"
+  },
+  "notFound": {
+    "ru": "Страница не найдена...",
+    "uz": "Sahifa topilmadi..."
+  },
+  "noPage": {
+    "ru": "Тут ничего нет",
+    "uz": "Bu yerda hech narsa yoq"
+  },
+  "goMainPage": {
+    "ru": "Вернуться на",
+    "uz": "Bosh sahifaga ",
+    "mainPage": {
+      "ru": "главную страницу",
+      "uz": "o’tish"
+    }
+  },
+  "getAuth": {
+    "ru": "Пройти авторизацию",
+    "uz": "Avtorizatsiyadan o’tish"
+  },
+  "volunteers": {
+    "ru": "Волонтеры:",
+    "uz": "Ko'ngillilar:"
+  },
+  "changeLang": {
+    "ru": "O'zbekcha",
+    "uz": "Русский"
+  },
+  "finishAndRate": {
+    "ru": "Завершить и оценить",
+    "uz": "Tugatish va baholash"
+  },
+  "edit": {
+    "ru": "Редактировать",
+    "uz": "Tahrirlash"
+  },
+  "rateforRequester": {
+    "ru": "Оценить заявителя",
+    "uz": "Ariza beruvchi baxolash"
+  },
+  "rateforparticipant": {
+    "ru": " Оценить участников",
+    "uz": "Ishtirokchilarni baxolash"
+  },
+  "remove": {
+    "ru": "Исключить",
+    "uz": "Chiqarib yuborish"
+  },
+  "acceptfromvol": {
+    "ru": "Запрос от потенциального волонтера",
+    "uz": "Potensial ko'ngillidan ariza"
+  },
+  "requesterRated": {
+    "ru": "Заявитель оценил вас на:",
+    "uz": "Ariza beruvchi sizni quyidagicha baholadi:"
+  },
+  "coordinatorRated": {
+    "ru": "Кординатор оценил вас на:",
+    "uz": "Kordinator sizni quyidagicha baholadi:"
+  },
+  "coordinator": {
+    "ru": "Координатор",
+    "uz": "Kordinator"
+  },
+  "requester": {
+    "ru": "Организация",
+    "uz": "Tashkilot"
+  },
+  "comments": {
+    "ru": "Комментарии",
+    "uz": "Izohlar"
+  },
+  "reject": {
+    "ru": "Отказать",
+    "uz": "Rad etish"
+  },
+  "rejected": {
+    "ru": "Отказано",
+    "uz": "Rad etildi"
+  },
+  "accepted": {
+    "ru": "Принято",
+    "uz": "Qabul qilindi"
+  },
+  "accept": {
+    "ru": "Принять",
+    "uz": "Qabul qilmoq"
+  },
+  "hasSend": {
+    "ru": "Передан",
+    "uz": "Uzatildi"
+  },
+  "posted": {
+    "ru": "Опубликовано",
+    "uz": "E'lon qilingan"
+  },
+  "postedPosts": {
+    "ru": "Опубликованные",
+    "uz": "E'lon qilinganlar"
+  },
+  "postbyme": {
+    "ru": "Опубликовать у себя",
+    "uz": "Guruhda e'lon qilish"
+  },
+  "cardDeadline": {
+    "ru": "Дедлайн:",
+    "uz": "Muddat:"
+  },
+  "myProfile": {
+    "ru": "Мой профиль",
+    "uz": "Mening profilim"
+  },
+  "OurSponsors": {
+    "ru": "Наши спонсоры",
+    "uz": "Bizning homiylarimiz"
+  },
+  "creategroup": {
+    "ru": "Оформить группу",
+    "uz": "Guruh yarating"
+  },
+  "wannaleave": {
+    "ru": "Вы хотите выйти?",
+    "uz": "Tizimdan chiqmoqchimisiz?"
+  },
+  "yes": {
+    "ru": "Да",
+    "uz": "Ha"
+  },
+  "exit": {
+    "ru": "Выход",
+    "uz": "Chiqish"
+  },
+  "areYsureRemoveVolunteer": {
+    "ru": "Вы действительно хотите исключить участника?",
+    "uz": "Ko'ngillini o'chirishga rozimisiz?"
+  },
+  "stars": {
+    "ru": "звезд",
+    "uz": "yulduz"
+  },
+  "successfullyreistered": {
+    "ru": "Успешно выполнено",
+    "uz": "Muvaffaqiyatli bajarildi"
+  },
+  "successGroupCreate": {
+    "ru": "Ваш запрос успешно принят. Просим ожидать письмо на e-mail об успешной активации группы!",
+    "uz": "Sizning so'rovingiz muvaffaqqiyatli qabul qilindi, guruhingiz faollashtirilishi haqida e-mail orqali habar qilingunga qadar kutishingizni soraymiz!"
+  },
+  "successSent": {
+    "ru": "Ваш запрос успешно принят. Просим подождать!",
+    "uz": "So'rovingiz muvaffaqqiyatli qabul qilindi, iltimos kuting!"
+  },
+  "wrong": {
+    "ru": "Неверный пароль или логин. Повторите попытку",
+    "uz": "Parol yoki login noto'g'ri. Qayta urinib ko'ring"
+  },
+  "registerError": {
+    "ru": "Пользователь с таким номером уже существует",
+    "uz": "Iltimos, qayta urinib koring, kiritilgan raqam allaqachon mavjud!"
+  },
+  "number": {
+    "ru": "Номер телефона",
+    "uz": "Telefon raqami"
+  },
+  "email": {
+    "ru": "Эл. почта",
+    "uz": "El. pochta"
+  },
+  "error": {
+    "ru": "Упс! Что-то пошло не так",
+    "uz": "Voy! Nimadir noto'g'ri bajarildi"
+  },
+  "success": {
+    "ru": "Вы успешно отправили",
+    "uz": "Siz muvaffaqiyatli yubordingiz"
+  },
+  "shared": {
+    "ru": "Вы успешно поделились",
+    "uz": "Siz muvaffaqiyatli baham ko'rdingiz"
+  },
+  "waitingRate": {
+    "ru": "В ожидании оценки",
+    "uz": "Baholash kutilmoqda"
+  },
+  "nothingfound": {
+    "ru": "Тут нет групп. Создай свою",
+    "uz": "Bu erda hech qanday guruh yo'q, o'zingizni yarating"
+  },
+  "fio": {
+    "ru": "Контактное лицо",
+    "uz": "Ariza beruvchi"
+  },
+  "agreementTitle": {
+    "ru": "Основные правила взаимодействия волонтеров и благополучателей",
+    "uz": "Asosiy qoidalar va ko'ngillilarga qoyiladgan talablar"
+  },
+  "agreementCon1": {
+    "ru": "Благополучатели – это люди или группа людей, которые получают помощь добровольцев и благотворительные пожертвования. Это могут быть как физические, так и юридические лица.",
+    "uz": "Благополучатели – это люди или группа людей, которые получают помощь добровольцев и благотворительные пожертвования. Это могут быть как физические, так и юридические лица."
+  },
+  "agreementCon2": {
+    "ru": "Главный принцип волонтерского труда – его добровольность, и потому отношения с благополучателями, как правило, базируются на взаимном доверии, уважении и открытости. Благополучатель не может принудить волонтера к труду, равно как и волонтер не имеет права принуждать благополучателя к чему-либо, даже если это, по его мнению, пойдет ему на пользу. Добрая воля обеих сторон – важнейший аспект таких взаимоотношений.",
+    "uz": "Главный принцип волонтерского труда – его добровольность, и потому отношения с благополучателями, как правило, базируются на взаимном доверии, уважении и открытости. Благополучатель не может принудить волонтера к труду, равно как и волонтер не имеет права принуждать благополучателя к чему-либо, даже если это, по его мнению, пойдет ему на пользу. Добрая воля обеих сторон – важнейший аспект таких взаимоотношений."
+  },
+  "agreementCon3": {
+    "ru": "По обоюдному желанию волонтеры и благополучатели могут заключить между собой договор о добровольческом труде. Это также касается отношений между волонтерами и волонтерскими организациями.",
+    "uz": "По обоюдному желанию волонтеры и благополучатели могут заключить между собой договор о добровольческом труде. Это также касается отношений между волонтерами и волонтерскими организациями."
+  },
+  "readAgreement": {
+    "ru": "Ознакомился(ась)",
+    "uz": "Tanishdim"
+  },
+  "besponsor": {
+    "ru": "Тут никого, станьте спонсором",
+    "uz": "Bu erda hech kim yo'q, homiy bo'l"
+  },
+  "numberOfGroups": {
+    "ru": "Волонтерских групп",
+    "uz": "Guruhlar"
+  },
+  "numberOfVolunteer": {
+    "ru": "Волонтеров",
+    "uz": "Ko'ngililar"
+  },
+  "numberOfApplicant": {
+    "ru": "Запросов о помощи",
+    "uz": "Yordam so'rovlari"
+  },
+  "statisticsTitle": {
+    "ru": "Статистика",
+    "uz": "Statistika"
+  },
+  "quickPosts": {
+    "ru": "Быстрые заявки",
+    "uz": "Shoshilinch arizalar"
+  },
+  "goBack": {
+    "ru": "назад",
+    "uz": "ortga"
+  },
+  "closedPosts": {
+    "ru": "Закрытые заявки",
+    "uz": "Yopilgan so'rovlar"
+  },
+  "organization": {
+    "placeholder": {
+      "ru": "Название организации",
+      "uz": "Tashkilot nomi"
+    },
+    "label": {
+      "ru": "Организация",
+      "uz": "Tashkilot"
+    }
+  },
+  "helped": {
+    "ru": "Помог(ла)",
+    "uz": "Yordam berdim"
+  },
+  "organizationJob": {
+    "placeholder": {
+      "ru": "Опишите деятельность",
+      "uz": "Faoliyatingizni tavsiflang"
+    },
+    "label": {
+      "ru": "Чем занимается ваша организация и чем можете помочь?",
+      "uz": "Tashkilotingiz qanday ish bilan shug'ullanadi va bizga qanday yordam bermoqchisiz?"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+[
+    {
+      "ru": "Андижан",
+      "uz": "Andijon",
+      "value": "03000"
+    },
+    {
+      "ru": "Бухара",
+      "uz": "Buxoro",
+      "value": "06000"
+    },
+    {
+      "ru": "Джизак",
+      "uz": "Jizzax",
+      "value": "08000"
+    },
+    {
+      "ru": "Кашкадарья",
+      "uz": "Qashqadaryo",
+      "value": "10000"
+    },
+    {
+      "ru": "Навоий ",
+      "uz": "Navoiy ",
+      "value": "12000"
+    },
+    {
+      "ru": "Наманган ",
+      "uz": "Namangan ",
+      "value": "14000"
+    },
+    {
+      "ru": "Самарканд ",
+      "uz": "Samarqand ",
+      "value": "18000"
+    },
+    {
+      "ru": "Сурхандарья",
+      "uz": "Surxondaryo",
+      "value": "22000"
+    },
+    {
+      "ru": "Сырдарья ",
+      "uz": "Sirdaryo ",
+      "value": "24000"
+    },
+    {
+      "ru": "Ташкент Город",
+      "uz": "Toshkent Shahri",
+      "value": "26000"
+    },
+    {
+      "ru": "Ташкентская область",
+      "uz": "Toshkent viloyati",
+      "value": "27000"
+    },
+    {
+      "ru": "Фергана ",
+      "uz": "Farg'ona ",
+      "value": "30000"
+    },
+    {
+      "ru": "Хорезм",
+      "uz": "Xorazm ",
+      "value": "33000"
+    },
+    {
+      "ru": "Каракалпакскистан",
+      "uz": "Qoraqalpog'iston Respublikasi",
+      "value": "35000"
+    }
+]

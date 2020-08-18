@@ -1,0 +1,45 @@
+.header {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 49px;
+    margin: 0;
+    color: #000000;
+}
+
+
+.archive {
+    font-size: 14px;
+    line-height: 19px;
+    text-decoration-line: underline;
+    color: #0075FF;
+    text-align: right;
+    display: inline;
+    display: block;
+    margin-left: auto;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+
+.middleLinks {
+    list-style: none;
+    padding: 0 0 5px;
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+}
+
+.middleLinks li {
+    margin-right: 15px;
+}
+
+.middleLinks img {
+    margin-right: 7px;
+}
+
+@media (max-width: 410px) {
+    .archive {
+        display: inline-block;
+        padding: 10px 10px 0 10px;
+    }
+}

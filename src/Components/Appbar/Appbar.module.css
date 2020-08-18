@@ -1,0 +1,178 @@
+.menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+}
+
+.menu li {
+    display: flex;
+    margin-left: 30px;
+    text-align: right;
+    font-style: normal;
+}
+
+.menu li a {
+    font-size: 14px;
+    line-height: 19px;
+    color: #333;
+    text-decoration: none;
+}
+
+.lang {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    text-decoration: none;
+    align-items: center;
+    color: #333333;
+    margin-left: 15px;
+}
+
+.ring {
+    /* position: absolute; */
+    margin-left: -15px;
+}
+
+.ellipse {
+    margin-top: -20px;
+    margin-left: -3px;
+}
+
+.logo {
+    padding: 7px 0px;
+}
+
+.Socialcare {
+    font-weight: bold;
+    font-size: 11px;
+    color: #333333;
+}
+
+.socialCareList {
+    list-style: none;
+    padding-left: 0;
+    /* margin-top: 18px;
+    margin-bottom: -5px;
+    margin-left: -20px; */
+}
+
+.socialCareList li {
+    display: inline-flex;
+    /* margin: -5px 10px 15px -110px; */
+    padding: 0;
+}
+
+
+.titleStar {
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    font-size: 9px;
+    color: #333333;
+}
+
+.socialCareList li p {
+    margin: 0;
+}
+
+.socialCareList li img {
+    margin-right: 5px;
+}
+
+.avagr {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+}
+
+.modal {
+    padding: 30px;
+}
+
+.groupName {
+    display: flex;
+    vertical-align: middle;
+    align-items: center;
+}
+
+.appbarListItem {
+    width: 60%;
+    border-top: 1px dashed #ccc;
+    opacity: 0.9;
+}
+
+.userBlock2 {
+    float: left;
+}
+
+.userBlock {
+    list-style-type: none;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+}
+
+.userBlock1 {
+    padding: 0;
+    margin: 0;
+    font-size: 10px;
+    font-weight: normal;
+    color: #777777;
+}
+
+.avagr1 {
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+}
+
+.btnUser {
+    border-left: 1px solid #ccc;
+    cursor: pointer;
+    list-style: none;
+    padding: 0 0 0 20px;
+}
+
+.leave {
+    text-align: center;
+    margin: auto;
+    padding: 0px;
+}
+
+.leave li {
+    display: inline-flex;
+    list-style-type: none;
+    height: 60px;
+    margin: 0px;
+    padding: 5px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .modal {
+        padding: 20px;
+    }
+}
+
+@media (max-width: 550px) {
+    .lang {
+        font-size: 10px;
+        margin-left: 10px;
+    }
+
+    .Socialcare {
+        font-size: 9px;
+    }
+
+}
