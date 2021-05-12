@@ -31,7 +31,7 @@
     "react-yandex-maps": "^4.4.0",
     "redux": "^4.0.5",
     "shortid": "^2.2.15",
-    "swiper": "^5.4.2"
+    "swiper": "^6.5.1"
   },
   "scripts": {
     "start": "cross-env NODE_ENV=development react-scripts start",
